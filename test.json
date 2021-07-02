@@ -1,0 +1,82 @@
+{
+  "personality-insights": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/personality-insights.git",
+    "offeringid": {
+      "test": "a1"
+    } 
+  },
+  "hpc-cluster": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/hpc-cluster.git",
+    "offeringid": {
+      "test": "clster",
+      "prod": "testclster"
+    },
+    "archived": true
+  },
+  "language-translator": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/language-translator.git",
+    "offeringid": {
+      "test": "f1",
+      "prod": "f1f2"
+    }
+  },
+  "text-to-speech": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/text-to-speech.git",
+    "offeringid": {
+      "test": "ts1",
+      "prod": "ts2"
+    }
+  },
+  "managed-financial-data": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/managed-financial-data.git",
+    "offeringid": {
+      "test": "s1",
+      "prod": "s2"
+    }
+  },
+  "developer-experience": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/developer-experience.git",
+    "offeringid": {
+      "test": "us4",
+      "prod": "us5"
+    }
+  },
+  "notification-service": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/notification-service.git",
+    "offeringid": {
+      "test": "notiication1",
+      "prod": "notification2"
+    }
+  },
+  "ibm-cloud-vmware-solutions": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/ibm-cloud-vmware-solutions.git",
+    "offeringid": {
+      "test": "ex1",
+      "prod": "ex2"
+    }
+  },
+  "power-systems-virtual-server": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/power-systems-virtual-server.git",
+    "offeringid": {
+      "test": "PRRTEST",
+      "prod": "PRD1"
+    }
+  },
+  "ibp": {
+    "group": "apidocs",
+    "repository": "https://github.ibm.com/cloud-api-docs/ibp.git",
+    "offeringid": {
+      "test": "testvallue",
+      "prod": "empty"
+    }
+  }
+}
