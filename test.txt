@@ -4,6 +4,7 @@ Check for getting content
 check for new commit files
 check new files to be added
 remove the file
+added line
 
 
 
