@@ -1,4 +1,1 @@
-testing new
-Adding new line from automation
-Check  LINES
-Change directory
+Added LINESfor new checking
