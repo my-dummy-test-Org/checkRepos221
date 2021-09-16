@@ -1,2 +1,3 @@
 new addition
 WITH FILES
+check
