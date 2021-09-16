@@ -2,3 +2,4 @@ new addition
 WITH FILES
 check
 files
+removed
