@@ -1,3 +1,1 @@
-!st lines
-lines added
-check push 
+Added push to git
